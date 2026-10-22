@@ -1,16 +1,33 @@
-## Hi there 👋
+# Ammar Fahim
 
-<!--
-**ammar2022-dev/ammar2022-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | Automation and Trading Software**
 
-Here are some ideas to get you started:
+Karachi, Pakistan · Open to remote jobs and freelance opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I'm a full-stack developer who builds web applications, automation scripts, and trading tools. On the web side I work with React, Next.js, Node.js and Express, backed by MySQL or MongoDB. For automation I use JavaScript and Python. For trading software I write Expert Advisors in MQL5 for MetaTrader 5 and strategies in Pine Script.
+
+## Tech stack
+
+| Area | Tools |
+|---|---|
+| Frontend | React, Next.js, JavaScript |
+| Backend | Node.js, Express, REST APIs |
+| Databases | MySQL, MongoDB |
+| Automation | Python |
+| Trading platforms | MQL5 / MetaTrader 5, Pine Script |
+
+## Areas of interest
+
+- Full-stack web applications and REST API design
+- Automating repetitive processes with scripts and scheduled jobs
+- Algorithmic trading tools for MetaTrader 5 and TradingView
+
+## Projects
+
+My public work is on my [repositories page](https://github.com/ammar2022-dev?tab=repositories). More projects will be added over time.
+
+## Contact
+
+GitHub: [@ammar2022-dev](https://github.com/ammar2022-dev)
