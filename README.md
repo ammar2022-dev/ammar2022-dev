@@ -31,3 +31,4 @@ My public work is on my [repositories page](https://github.com/ammar2022-dev?tab
 ## Contact
 
 GitHub: [@ammar2022-dev](https://github.com/ammar2022-dev)
+LinkedIn: [Ammar Fahim](https://www.linkedin.com/in/ammar-faheem-b93568244/)
